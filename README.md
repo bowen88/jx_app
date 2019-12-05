@@ -1,4 +1,4 @@
-# vue_blog
+# @jxfem/core
 
 > A Vue.js project
 
